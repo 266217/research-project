@@ -3,15 +3,25 @@ body {
 }
 
 .sacramento-regular {
-    font-family: "Sacramento", cursive;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-  .quicksand-<uniquifier> {
-    font-family: "Quicksand", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-  }
-  
+  font-family: "Sacramento", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 85px;
+}
+
+.sofia-sans-extra-condensed-uniquifier {
+  font-family: "Sofia Sans Extra Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+}
+
+.sofia-sans-extra-condensed-uniquify {
+  font-family: "Sofia Sans Extra Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+}
+
