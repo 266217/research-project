@@ -1,5 +1,5 @@
 body {
-    background: grey;
+    background: #ffa07a;
 }
 
 .sacramento-regular {
@@ -23,5 +23,25 @@ body {
   font-weight: 400;
   font-style: normal;
   font-size: 30px;
+}
+
+/* Navigation Bar */
+.navbar {
+  background-color: greenyellow; 
+}
+
+/* Navigation Links */
+.navbar-dark .navbar-nav .nav-link {
+  color: #FFFF; 
+}
+
+/* Hero Section */
+.bg-light {
+  background-color: transparent; 
+}
+
+.bg-image {
+  background-image: url('images/bg-hero.jpg');
+  background-position: center;
 }
 
