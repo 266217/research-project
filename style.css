@@ -1,5 +1,6 @@
 body {
-    background: #89D9D9;
+    background: #FFFF;
+    font-family: ;
 }
 
 .sacramento-regular {
@@ -25,15 +26,32 @@ body {
   font-size: 30px;
 }
 
-.lato-light {
-  font-family: "Lato", sans-serif;
-  font-weight: 400;
+.montserrat-uniquifier {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
   font-style: normal;
-  font-size: 20px;
+  font-size: 25px;
+}
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 18px;
+}
+
+.montserrat-big {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 30px;
 }
 
 .navbar .navbar-expand-lg  {
-  background-color: #5A98BF;
+  background-color: #f2b6c1;
 }
 
 /* Hero Section */
@@ -42,7 +60,7 @@ body {
 }
 
 .bg-image {
-  background-image: url('images/bg-hero.jpg');
+  background-image: url('images/header-bg.jpg');
   background-position: center;
 }
 
@@ -53,4 +71,12 @@ body {
 .btn-primary:hover {
   background-color: #F2811D;
   border-color: #F2811D;
+}
+
+.bg-alt {
+  background-color: #ffdde3;
+}
+
+#Research ol{
+  padding-left:60px;
 }
